@@ -1,4 +1,4 @@
-# visium_public_shiny
+# Public Shiny for Ovarian Cancer Data
 The shiny app for the visium data
 
 ## Run the app
